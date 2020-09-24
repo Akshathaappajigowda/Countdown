@@ -44,3 +44,16 @@ h1{
     font-size: 1.3rem;
      
 }
+
+@media(max-width: 500px){
+    body{
+        background-size: auto;
+    }
+    h1{
+        font-size: 30px;
+    }
+    .big-text{
+        font-size: 30px;
+    }
+
+}
